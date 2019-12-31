@@ -14,7 +14,7 @@ eng2il uses a number of open source projects to work properly:
 
 ### Installation
 
-Install the dependencies and devDependencies and start the client.
+Install the dependencies and start the nodejs app.
 
 ```sh
 $  export GOOGLE_APPLICATION_CREDENTIALS= <Google API Speech-to-text json file credentials 
