@@ -2,8 +2,6 @@
 
 eng2il is a jupyter microservice and nodejs speech-to-text converter (using wav files)
 
-- eng2il.txt (not included)
-
 
 ### Tech
 
